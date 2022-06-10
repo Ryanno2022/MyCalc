@@ -1,7 +1,3 @@
-# MyCalc
-https://www.youtube.com/watch?v=KzYUuTiHdiY&amp;ab_channel=BriceAyres          Planning on adding my own styling, exponent and square root options
-
-
 #About this project
 
 https://www.youtube.com/watch?v=KzYUuTiHdiY&ab_channel=BriceAyres

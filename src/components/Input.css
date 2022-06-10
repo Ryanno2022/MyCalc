@@ -1,0 +1,9 @@
+.input {
+    height: 4em;
+    display: flex;
+    justify-content: flex-ednd;
+    align-items: center;
+    font-weight: bold;
+    font-size: 1.4em;
+    
+}
