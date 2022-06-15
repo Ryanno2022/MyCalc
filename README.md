@@ -8,6 +8,11 @@ I am attempting to add to it by:
 1. Adding a custom header
 2. Adding square, cube and square root buttons
 
+Progress:
+
+Project rewritten and made functional
+Need to fix clickhandler
+
 
 
 
